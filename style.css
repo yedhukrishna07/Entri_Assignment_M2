@@ -111,11 +111,11 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
     justify-content: flex-end;
-    padding-bottom: 280px;
-    margin-bottom: 60px;
-    padding-right: 27px;
+    padding-left: 34%;
+    padding-right: 36%;
+    padding-top: 30%;
+    padding-bottom: 30%;
   }
   
   .showcase h2, .showcase p {
